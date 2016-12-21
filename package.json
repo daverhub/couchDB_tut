@@ -1,0 +1,17 @@
+{
+  "name": "couchdb_tut",
+  "version": "1.0.0",
+  "description": "couchdb relax",
+  "main": "app.js",
+  "dependencies": {
+    "nano": "^6.2.0"
+  },
+  "devDependencies": {
+    "nano": "^6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
